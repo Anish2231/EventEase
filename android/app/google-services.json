@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205851537428",
+    "project_id": "eventease-dd9fb",
+    "storage_bucket": "eventease-dd9fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205851537428:android:a30b1c382bc62940cc7701",
+        "android_client_info": {
+          "package_name": "com.eventease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205851537428-u1a8e8ifgj4e88gr4vabit887qhpviej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCApLtWMDbYq21q8mK0sYqM2FUfYYN25FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205851537428-u1a8e8ifgj4e88gr4vabit887qhpviej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
